@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713408972654",
+    "project_id": "boring-caller",
+    "storage_bucket": "boring-caller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713408972654:android:837f1c85520e89a933e37f",
+        "android_client_info": {
+          "package_name": "com.example.videocaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713408972654-h6oacd15oufjavm1r40h0o3quuj8ob0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHY6nSWc6CbySFaqU3P2HbUlxg7lDKW8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713408972654-h6oacd15oufjavm1r40h0o3quuj8ob0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

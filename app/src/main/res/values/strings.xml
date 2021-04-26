@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Boring Caller</string>
+    <string name="title_activity_signup">New Account</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="logo">Logo</string>
+    <string name="please_share_this_code_with_your_frinds_to_start_videocall">Please share this code with your frinds to start VideoCall</string>
+    <string name="enter_code">Enter Code</string>
+</resources>
